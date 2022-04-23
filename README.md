@@ -1,3 +1,9 @@
+# Geolocation Project - Search places - Search directions
+This prokect was made using TypeScript and React 18.0.0
+
+## Demo / Some images of the project:
+![React and Mapbox Project](https://res.cloudinary.com/silvestric/image/upload/v1650743454/imgs/img-mapbox-react-project/MapBoxReactProject_wjtdni.png "React and Mapbox Project")
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
