@@ -4,7 +4,7 @@ This prokect was made using TypeScript and React 18.0.0
 ## Demo / Some images of the project:
 ![React and Mapbox Project](https://res.cloudinary.com/silvestric/image/upload/v1650743454/imgs/img-mapbox-react-project/MapBoxReactProject_wjtdni.png "React and Mapbox Project")
 
-## To use this project you will need a mapbox token, please sign up on [https://www.mapbox.com/](https://www.mapbox.com/) and create an api key. You will also need to create 2 .env files:
+## To use this project you will need a mapbox token, please sign up on [https://www.mapbox.com/](https://www.mapbox.com/) and create an api key. You will also need to create 2 .env files on your ROOT folder (react-mapbox-project):
 .env file: (Production)
 `
 REACT_APP_MAPBOX_TOKEN=REPLACE_FOR_YOUR_API_TOKEN
