@@ -1,6 +1,8 @@
 # Geolocation Project - Search places - Search directions
 This prokect was made using TypeScript and React 18.0.0
 
+## Take a look of the project on: [https://maps-react-typescript.netlify.app/](https://maps-react-typescript.netlify.app/)
+
 ## Demo / Some images of the project:
 ![React and Mapbox Project](https://res.cloudinary.com/silvestric/image/upload/v1650743454/imgs/img-mapbox-react-project/MapBoxReactProject_wjtdni.png "React and Mapbox Project")
 
